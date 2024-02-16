@@ -26,6 +26,3 @@ Smart Booster will help increase the capacity of RAM and remove unnecessary stor
   <img src="/assets/Screenshot7.jpeg" alt="Screenshot 7" style="margin:5px;width:23%;height:23%;">
   <img src="/assets/Screenshot8.jpeg" alt="Screenshot 8" style="margin:5px;width:23%;height:23%;">
 </div>
-
-# Feedback
-If you have any feedback or want to get full sources, please reach out to me at ducnh.hust@gmail.com
